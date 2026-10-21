@@ -7,11 +7,11 @@ Mobile & web developer from Bali, and a final-year Informatics student at Univer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-firmanfadilah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firmanfadilah)
 [![Email](https://img.shields.io/badge/Email-firmanfdlh1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firmanfdlh1@gmail.com)
 
-- 🎓 Informatics, Universitas Udayana · GPA 3.78 · thesis defense in December 2026
-- 💼 Built real systems during two internships: PT Gapura Angkasa and PT Citra Konsultama Indonesia
-- 🤖 Completed the AI Development program (batch B10) at Infinite Learning
-- 📜 BNSP-certified Junior Web Developer
-- 🔍 Open to mobile and web developer internships or junior roles, remote or in Bali
+- Informatics, Universitas Udayana · GPA 3.78 · thesis defense in December 2026
+- Built real systems during two internships: PT Gapura Angkasa and PT Citra Konsultama Indonesia
+- Completed the AI Development program (batch B10) at Infinite Learning
+- BNSP-certified Junior Web Developer
+- Open to mobile and web developer internships or junior roles, remote or in Bali
 
 ---
 
@@ -65,9 +65,9 @@ More in my [portfolio](https://firmanfadilah.pages.dev/en/work/).
 
 ### Awards
 
-- 🥇 1st place, international · infographic poster, Kreasi Publik FIA Universitas Brawijaya
-- 🥇 1st place, national · infographic poster, UPCOFEST
-- 🥉 3rd place, national · infographic poster, FNWMU Universitas Udayana
+- 1st place, international · infographic poster, Kreasi Publik FIA Universitas Brawijaya
+- 1st place, national · infographic poster, UPCOFEST
+- 3rd place, national · infographic poster, FNWMU Universitas Udayana
 
 ---
 
