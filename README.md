@@ -1,73 +1,79 @@
 # Hi, I'm Firman Fadilah
 
-Computer Science student at Universitas Udayana, Bali — currently in my 6th semester. I build fullstack web applications and have a strong interest in AI engineering.
+Mobile & web developer from Bali, and a final-year Informatics student at Universitas Udayana.
 
-Right now, I'm doing an AI-focused internship at Infinite Learning while working on side projects that combine web development with artificial intelligence.
+[![Portfolio](https://img.shields.io/badge/Portfolio-firmanfadilah.pages.dev-FF5A1F?style=flat-square&logo=googlechrome&logoColor=white)](https://firmanfadilah.pages.dev)
+[![CV](https://img.shields.io/badge/CV-PDF-0E0E0E?style=flat-square&logo=readdotcv&logoColor=white)](https://firmanfadilah.pages.dev/cv/Firman-Fadilah-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-firmanfadilah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firmanfadilah)
+[![Email](https://img.shields.io/badge/Email-firmanfdlh1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firmanfdlh1@gmail.com)
+
+- 🎓 Informatics, Universitas Udayana · GPA 3.78 · thesis defense in December 2026
+- 💼 Built real systems during two internships: PT Gapura Angkasa and PT Citra Konsultama Indonesia
+- 🤖 Completed the AI Development program (batch B10) at Infinite Learning
+- 📜 BNSP-certified Junior Web Developer
+- 🔍 Open to mobile and web developer internships or junior roles, remote or in Bali
 
 ---
 
-### What I work with
+### Featured projects
 
-**Languages**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[Tangkis](https://github.com/manrandomside/tangkis)** | Offline Android app that flags scam messages with a neural network, with password lock and encrypted history | Kotlin · Python · MLP |
+| **[Kioku](https://github.com/manrandomside/kioku)** · [live](https://kioku-learn.vercel.app) | Japanese vocabulary platform for Indonesian speakers: FSRS spaced repetition, AI tutor, 2,900+ words with audio. Registered copyright (HKI) | Next.js · Supabase · Vercel AI SDK |
+| **[Kelola SDM](https://github.com/manrandomside/kelola-sdm-gapura-angkasa)** | HR system for 1,273+ employees at PT Gapura Angkasa (Bali airport): analytics, AI assistant, contract alerts. Installable PWA | Next.js · Supabase · Drizzle |
+| **[CAST](https://github.com/manrandomside/layanan-pengaduan-kebutuhan-akademisi-ticketing)** | Real-time academic ticketing for PT Citra Konsultama Indonesia, with live chat and a ticket quota | Laravel · React · Pusher |
+| **[Early Beauty Studio](https://github.com/manrandomside/early-beauty-studio)** · [live](https://earlybeauty.pages.dev) | Client website for a beauty studio: 5 pages, 2 languages, price calculator, owner-run announcements | Astro · Cloudflare Pages |
+| **[Miaw](https://github.com/manrandomside/miaw)** · [live](https://miaw-ai.vercel.app) | Digital pet and home assistant wired to an ESP32: live sensors, mini-games, LLM chat | Next.js · MQTT · ESP32 |
 
+More in my [portfolio](https://firmanfadilah.pages.dev/en/work/).
+
+---
+
+### Tech stack
+
+**Mobile** &nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Languages** &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**Backend & Database**
-
+**Backend & data** &nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI & Tools**
-
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+**Tools** &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### Featured project
+### Awards
 
-**[Kioku (記憶)](https://kioku-learn.vercel.app)** — A fullstack Japanese vocabulary learning platform built for Indonesian speakers.
-
-Built with Next.js 15, React 19, Supabase, and multiple AI providers. Features include spaced repetition (FSRS algorithm), 7 types of interactive quizzes, an AI tutor chatbot, 2,900+ vocabulary with audio pronunciation, gamification system, and comprehensive security implementation.
-
-This project serves as both a functional learning tool and a demonstration of fullstack + AI engineering — running entirely on free-tier infrastructure at zero cost.
-
-[![Repo](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/manrandomside/kioku)
-[![Live](https://img.shields.io/badge/Live-kioku--learn.vercel.app-0A3A3A?style=flat-square&logo=vercel)](https://kioku-learn.vercel.app)
+- 🥇 1st place, international · infographic poster, Kreasi Publik FIA Universitas Brawijaya
+- 🥇 1st place, national · infographic poster, UPCOFEST
+- 🥉 3rd place, national · infographic poster, FNWMU Universitas Udayana
 
 ---
 
 ### GitHub stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=manrandomside&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=C2E959&title_color=C2E959&text_color=8b949e&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manrandomside&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C2E959&text_color=8b949e&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manrandomside&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=FF5A1F&title_color=FF5A1F&text_color=8b949e&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manrandomside&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF5A1F&text_color=8b949e&langs_count=6" height="165" />
 </div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manrandomside&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C2E959&fire=C2E959&currStreakLabel=C2E959" width="100%" />
-
----
-
-### Currently
-
-- Finishing my Computer Science degree at Universitas Udayana
-- AI internship at Infinite Learning
-- Building things that sit at the intersection of web development and AI
-
----
-
-*"The best way to learn is to build."*
