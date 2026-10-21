@@ -4,7 +4,6 @@ Mobile & web developer from Bali, and a final-year Informatics student at Univer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-firmanfadilah.pages.dev-FF5A1F?style=flat-square&logo=googlechrome&logoColor=white)](https://firmanfadilah.pages.dev)
 [![CV](https://img.shields.io/badge/CV-PDF-0E0E0E?style=flat-square&logo=readdotcv&logoColor=white)](https://firmanfadilah.pages.dev/cv/Firman-Fadilah-CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-firmanfadilah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firmanfadilah)
 [![Email](https://img.shields.io/badge/Email-firmanfdlh1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firmanfdlh1@gmail.com)
 
 - Informatics, Universitas Udayana · GPA 3.78 · thesis defense in December 2026
